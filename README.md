@@ -1,4 +1,4 @@
-[![Social banner for SARAN-SMART-2004](https://github.com/SARAN-SMART-2004/SARAN-SMART-2004/blob/main/assets/Banner.jpeg)](https://saran-smart-2004.github.io/Personal-Portfolio/)
+[![Social banner for SARAN-SMART-2004](https://github.com/SARAN-SMART-2004/SARAN-SMART-2004/blob/main/assets/Banner2.jpeg)](https://saran-smart-2004.github.io/Personal-Portfolio/)
 <h1 align='center'> Hi! :wave:</h1>
 
 <!--Night Owl image-->
@@ -17,12 +17,12 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ✍ I write technical blogs, You can visit my blog site at [INSTAGRAM](https://www.instagram.com/vaali_saran).
-- ❤ Contributing to Open Source.
+- ❤  Love to code and Create something new.
 - 💻 Visit my [Portfolio](https://saran-smart-2004.github.io/Personal-Portfolio/) for more details about me.
 <!--End Intro-->
 
 ## :computer: Technologies I Love
-* Python
+* Python, C, Java
 * Machine Learning
 * Data Science
 * Frontend and Backend Web Development
@@ -41,12 +41,12 @@
 			]
 	
 	def getCity():
-		return PlaceofCoders()
+		return Periyakulam()
 	
 	def Ambitions():
 		LearnNewTechDaily()
 		CreateSomethingForSociety()
-		FinishMyIkigai()
+		FindMyIkigai()
 		LearnAMeaningfulLife()
     
 	
@@ -69,7 +69,7 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/ssaran3031/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
 <a href="mailto:saran152004s@gmail.com" target="_blank">
