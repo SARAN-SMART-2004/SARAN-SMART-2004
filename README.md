@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="assets/logo tech.png">
 </div>
 
 <!--Header Name-->
@@ -36,19 +36,23 @@
 		hobbies = [
 				'Listening music',
 				'Listening Podcast',
-				'Reading Novels'
+				'Reading Novels',
+				'Learn New Tech Daily',
 				'Being up all Night chasing that ONE BUG...'
+
 			]
+	while(!(succeed=try()));
 	
 	def getCity():
 		return Periyakulam()
 	
 	def Ambitions():
-		LearnNewTechDaily()
 		CreateSomethingForSociety()
 		FindMyIkigai()
 		LearnAMeaningfulLife()
-    
+
+	def About():
+		ReadMyResume()
 	
  ```
 <!--Languages and Tools Section-->       
